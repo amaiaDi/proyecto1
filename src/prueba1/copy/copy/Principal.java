@@ -1,4 +1,4 @@
-package prueba1;
+package prueba1.copy.copy;
 
 public class Principal {
 
